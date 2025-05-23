@@ -1,4 +1,8 @@
+
 <!-- SEO Meta Tags -->
+<head>
+  <meta name="google-site-verification" content="l4gzIHopgDDt57xRYeRvJZ5DYgg4lLb-qPciUxhNxkY" />
+</head>
 <!--
   Title: Cybersecurity Engineer | Ethical Hacker | Reverse Engineer
   Description: I’m a cybersecurity enthusiast, penetration tester, and open source contributor who builds and breaks things in the digital shadows.
