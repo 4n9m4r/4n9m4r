@@ -18,8 +18,6 @@
   
 ## 💾 Who Am I?
 
-> "You trace the logs… I rewrite them."
-
 They call me `4n9m4r` — a ghost in the shell, a cipher in the noise.
 
 For over 4 years, I've walked the blurred line between vulnerability and control — practicing the dark art of **ethical hacking**, tearing into systems not to destroy them, but to expose their illusions of safety.
@@ -53,6 +51,5 @@ Love what I do? Consider fueling my coffee-driven hacking sessions:
 > ₿ Bitcoin: **bc1ql4syps7qpa3djqrxwht3g66tldyh4j7qsyjkq0**
 > 
 > 💳 Etherium: **0xfddbd535a4ad28792cbebceee3d6982d774e6d13**
-
 
 </p>
